@@ -1,0 +1,10 @@
+name: TntPlugin
+version: ${project.version}
+main: me.zdellarocco.tntplugin.tntplugin.TntPlugin
+api-version: 1.17
+authors: [ zdellarocco ]
+description: Players can no longer place TNT
+commands:
+  credits:
+    description: Says the author of this mod
+    usage: /credits
